@@ -10,7 +10,7 @@ In the docker network, we have two hosts :
 * 172.18.0.2 
 * 172.18.0.3
 
-The first one is the attacker using a parrot container, the second one is the jenkins server. Doing a port scanning we have the following outcome:
+The first one is the attacker using a parrot container, the second one is the jenkins server. Doing a port scanning on the jenkins server,we have the following outcome:
 ![](nmapvic)
 
 let's check the server on port 8080:
