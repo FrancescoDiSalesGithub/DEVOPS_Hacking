@@ -32,4 +32,4 @@ Let's write the following script in the script web page of Jenkins and click on 
 ![](scriptRevshell)
 
 As we run the script we have got the reverse shell:
-![shellobtained]
+![](shellobtained)
